@@ -12,10 +12,10 @@ Welcome to the Simon Game! Test your memory and concentration with this classic 
 
 ## Color Buttons
 
-- **Green:** ![Green](styles/green.png)
-- **Red:** ![Red](styles/red.png)
-- **Yellow:** ![Yellow](styles/yellow.png)
-- **Blue:** ![Blue](styles/blue.png)
+- **Green** 
+- **Red** 
+- **Yellow** 
+- **Blue**
 
 ## Getting Started
 
