@@ -12,6 +12,8 @@ Welcome to the Simon Game! Test your memory and concentration with this classic 
 
 ## Color Buttons
 
+The colors in the game are dynamically generated using CSS. Each button corresponds to a different color:
+
 - **Green** 
 - **Red** 
 - **Yellow** 
